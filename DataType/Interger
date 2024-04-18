@@ -1,0 +1,5 @@
+Interger => int 
+Uint => Unsinged => 0 to positive numbers
+Int => Singed number => negative(-) to positive numbers
+syntax: 
+var i int = 100 
