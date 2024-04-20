@@ -1,0 +1,8 @@
+The float data types are used to store positive and negative numbers with a decimal point, like 35.3, -2.34, or 3597.34987.
+
+  Type	   Size	    Range
+float32 	32 bits	 -3.4e+38 to 3.4e+38.
+float64	  64 bits	 -1.7e+308 to +1.7e+308.
+
+
+  The default type for float is float64. If you do not specify a type, the type will be float64.
