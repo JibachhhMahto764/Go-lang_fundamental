@@ -1,0 +1,14 @@
+there are two type of float datatype 
+1.float32
+2.float64
+syntax:
+     var f float64 = 455.3344 
+
+
+     package main
+     import "fmt"
+
+      func main(){
+      var f1 float64
+      fmt.Print("%.2f",f1)
+      }
