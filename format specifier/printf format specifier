@@ -1,0 +1,21 @@
+%v -> formats the value in a default format
+
+example ;- 
+    package main
+    import("fmt")
+    func main(){
+    var name string = "jibachh"
+      fmt.printf("Nice to see you, %v",name)
+      }
+
+    %d -> formats decimal integers
+
+    example -> 
+              package main
+              import("fmt")
+               func main(){
+               var grades int = 67
+               fmt.printf(Marks: %d",grades)
+               }
+
+              
