@@ -18,4 +18,12 @@ example ;-
                fmt.printf(Marks: %d",grades)
                }
 
-              
+              Using both --------------
+code;-   
+               package main
+               import("fmt")
+               func main(){ 
+              var name string = "Jibachh"
+              var i int = 78
+              fmt.printf("Hey,%v! you have scored %d/100 in physics"name,i)
+             }
