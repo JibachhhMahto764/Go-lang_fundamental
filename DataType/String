@@ -1,0 +1,11 @@
+Syntax:
+var s string = "Hello jibachh"
+
+program----------
+
+package main
+import("fmt")
+func main(){
+var greeting string = "Hello jibachh"
+fmt.Println(greeting)
+}
